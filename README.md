@@ -22,7 +22,7 @@
 1. **Clone the Repository** (or download the script directly):
 
    ```
-   git clone https://github.com/yourusername/youtube-transcript-fetcher.git
+   git clone https://github.com/helizaga/YouTube-Transcript-Fetcher.git
    ```
 
 2. **Navigate to the Project Directory**:
